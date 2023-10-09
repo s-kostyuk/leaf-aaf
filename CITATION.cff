@@ -24,11 +24,12 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0003-4196-2524"
   doi: "10.47839/ijc.22.3.3225"
   journal: "International Journal of Computing"
-  month: oct
+  month: 10
   start: 311 # First page number
   end: 318 # Last page number
   title: "Learnable Extended Activation Function for Deep Neural Networks"
-  publisher: "Research Institute of Intelligent Computer Systems"
+  publisher:
+    name: "Research Institute of Intelligent Computer Systems"
   issue: 3
   volume: 22
   year: 2023
